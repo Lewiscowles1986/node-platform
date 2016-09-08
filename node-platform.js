@@ -21,7 +21,7 @@ function isWin() {
 }
 
 function isNix() {
-    return (NIX_OS.includes(getPlatform()));
+    return (NIX_OS.indexOf(getPlatform()) > -1);
 }
 
 function isMac() {
