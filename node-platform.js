@@ -55,6 +55,6 @@ module.exports.isMac = isMac;
 module.exports.isBsd = isBsd;
 module.exports.isLinux = isLinux;
 module.exports.isAndroid = isAndroid;
-module.exports.isOS = isOs;
+module.exports.isOS = isOS;
 
 })();
