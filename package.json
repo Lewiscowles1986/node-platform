@@ -2,7 +2,7 @@
   "name": "node-platform",
   "version": "0.0.1",
   "description": "Platform Detection for Node, supports all current OS's and OS families node supports",
-  "main": "node-platform",
+  "main": "node-platform.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Lewiscowles1986/node-platform"
